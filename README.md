@@ -7,3 +7,9 @@ https://dev-futsapp.srtesthost.tk/api
 
 
 # frontend_FutsApp_reservas
+/ > home
+/login
+https://github.com/serggiors/frontend_FutsApp_reservas/blob/main/img/login.png
+
+/register
+https://github.com/serggiors/frontend_FutsApp_reservas/blob/main/img/register.png
